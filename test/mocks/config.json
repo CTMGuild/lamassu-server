@@ -22,6 +22,7 @@
       "networkTimeout": 20000
     },
     "plugins": {
+      "coins": {"BTC": true, "DASH": true},
       "current": {
         "ticker": "mockTicker",
         "trade": "mockTrader",

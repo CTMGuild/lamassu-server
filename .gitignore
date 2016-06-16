@@ -6,6 +6,7 @@ lib-cov
 *.out
 *.pid
 *.gz
+*.pem
 
 pids
 logs
@@ -27,4 +28,5 @@ options.mine.js
 .vagrant
 
 raqia.json
+
 scratch/
